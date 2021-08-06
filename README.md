@@ -2,7 +2,7 @@
 
 In this code we will look at this small server log finding the first and last system shutdown events:
 
-INFO 2014-07-03T23:27:51 supybot Shutdown initiated.
+INFO 2014-07-03T23:27:51 supybot Shutdown initiated. <br />
 INFO 2014-07-03T23:31:22 supybot Shutdown initiated.
 
 The time between these two events are calculated. 
